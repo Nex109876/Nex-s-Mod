@@ -1,0 +1,17 @@
+{
+  "id": "NexsMod",
+  "name": "Nex's Mod",
+  "author": [
+    "Nex1000"
+  ],
+  "description": "A silly and unbalanced mod made with jokerforge\n",
+  "prefix": "N10",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "00B8D1",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
